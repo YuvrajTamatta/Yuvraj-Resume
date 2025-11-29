@@ -61,7 +61,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/yuvraj-tamatta-43a71926a"
+              href="https://www.linkedin.com/in/yuvrajtamatta"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 p-4 rounded-xl bg-card/50 border border-border/50 hover:border-accent/50 hover:bg-accent/5 transition-all duration-300 group"
@@ -78,7 +78,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://github.com/yuvrraj"
+              href="https://github.com/YuvrajTamatta"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 p-4 rounded-xl bg-card/50 border border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 group"
@@ -89,7 +89,7 @@ export const Contact = () => {
               <div className="flex-1">
                 <p className="text-sm text-muted-foreground mb-1">GitHub</p>
                 <p className="font-semibold group-hover:text-primary transition-colors">
-                  @yuvrraj
+                  Yuvraj Tamatta
                 </p>
               </div>
             </a>
