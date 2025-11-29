@@ -44,7 +44,7 @@ export const Hero = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl md:text-3xl text-muted-foreground mb-8 font-light"
         >
-          Junior Laravel Developer
+        Laravel Developer
         </motion.p>
 
         <motion.p
@@ -58,7 +58,7 @@ export const Hero = () => {
         </motion.p>
 
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.5 }}
           className="flex flex-wrap gap-4 justify-center mb-12"

@@ -5,7 +5,7 @@ import { Calendar, MapPin, Briefcase } from 'lucide-react';
 
 const experiences = [
   {
-    title: 'Junior Laravel Developer',
+    title: 'Laravel Developer',
     company: 'The Web Logics',
     location: 'Jaipur',
     period: '05/2025 - Present',
