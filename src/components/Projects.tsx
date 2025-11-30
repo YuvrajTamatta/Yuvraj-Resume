@@ -27,7 +27,7 @@ const projects = [
       'Real-time analytics and reporting',
       'User authentication and role management'
     ],
-    tech: ['Laravel', 'MySQL', 'Tailwind CSS', 'JavaScript'],
+    tech: ['Laravel', 'MySQL', 'Tailwind CSS', 'JavaScript', 'Ajax', 'Livewire','Alpinejs'],
   },
   {
     title: 'WhatsMark (Marketing & Automation)',
@@ -39,7 +39,7 @@ const projects = [
       'AI-assisted conversations for better customer engagement',
       'Bulk messaging with media support (images, videos, documents)'
     ],
-    tech: ['Laravel', 'WhatsApp API', 'AI Integration', 'Bootstrap'],
+    tech: ['Laravel', 'WhatsApp API', 'AI Integration', 'Ajax', 'Livewire','Alpinejs'],
   },
 ];
 

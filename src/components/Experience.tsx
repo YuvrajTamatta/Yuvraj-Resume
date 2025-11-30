@@ -63,7 +63,10 @@ export const Experience = () => {
               <div className="flex flex-col md:flex-row md:items-start gap-6">
                 <div className="flex-shrink-0">
                   <div className="p-4 rounded-xl bg-primary/10 group-hover:bg-primary/20 transition-colors">
-                    <Briefcase className="h-8 w-8 text-primary" />
+                  <div className='flex items-center gap-3'>
+                                        <Briefcase className="h-8 w-8 text-primary" /><p className="text-xl text-primary">{exp.company}</p>
+
+                  </div>
                   </div>
                 </div>
                 
@@ -73,7 +76,6 @@ export const Experience = () => {
                       <h3 className="text-2xl font-bold mb-2 group-hover:text-gradient transition-all">
                         {exp.title}
                       </h3>
-                      <p className="text-xl text-primary mb-2">{exp.company}</p>
                       <p className="text-muted-foreground">{exp.description}</p>
                     </div>
                     <div className="flex flex-col gap-2 text-sm text-muted-foreground">
