@@ -16,8 +16,6 @@ The project is hosted on **Lovable.dev** with automated deployment and version c
 - Integrated **auto-deploy** and **real-time updates** using Lovable’s publishing workflow.
 - Managed code with **Git & GitHub** supporting cloning, local development, and collaborative editing.
 - Ensured easy local setup using `npm install` and `npm run dev` for **hot-reload and instant preview**.
-- Added support for **custom domain** setup and handled deployment via Lovable hosting.
-
 
 **Use Lovable**
 
